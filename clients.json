@@ -1,0 +1,26 @@
+[
+  {
+    "id": "free_1_21_4",
+    "name": "FREE 1.21.4",
+    "type": "Free",
+    "status": "Стабильная",
+    "title": "FREE",
+    "description": "Бесплатная версия с Fabric 1.21.4",
+    "access": "free",
+    "jarFile": "free_1_21_4.jar",
+    "jarUrl": "https://github.com/adykatvibecoder/energyutils/releases/latest/download/free_1_21_4.jar",
+    "fabricApi": true
+  },
+  {
+    "id": "beta_1_21_4",
+    "name": "BETA 1.21.4",
+    "type": "Beta",
+    "status": "Закрытая",
+    "title": "BETA",
+    "description": "Закрытое тестирование",
+    "access": "beta",
+    "jarFile": "beta_1_21_4.jar",
+    "jarUrl": "",
+    "fabricApi": false
+  }
+]
