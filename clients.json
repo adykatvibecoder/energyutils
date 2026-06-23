@@ -5,17 +5,10 @@
     "type": "Free",
     "status": "Стабильная",
     "title": "FREE",
-    "description": "Бесплатная версия с Fabric 1.21.4 и EnergyUtils",
+    "description": "Fabric 1.21.4 + EnergyUtils",
     "access": "free",
-    "minecraftVersion": "1.21.4",
-    "fabricLoaderVersion": "0.16.10",
-    "mods": [
-      {
-        "name": "EnergyUtils",
-        "url": "https://github.com/adykatvibecoder/energyutils/releases/download/v1.0/EnergyUtils-1.0.0.jar",
-        "file": "EnergyUtils.jar"
-      }
-    ],
+    "clientUrl": "",
+    "modsUrl": "https://github.com/adykatvibecoder/energyutils/releases/download/v1.0/EnergyUtils-1.0.0.jar",
     "fabricApi": true
   },
   {
@@ -26,9 +19,8 @@
     "title": "BETA",
     "description": "Закрытое тестирование",
     "access": "beta",
-    "minecraftVersion": "1.21.4",
-    "fabricLoaderVersion": "0.16.10",
-    "mods": [],
+    "clientUrl": "",
+    "modsUrl": "",
     "fabricApi": false
   }
 ]
