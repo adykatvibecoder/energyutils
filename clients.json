@@ -7,7 +7,7 @@
     "title": "FREE",
     "description": "Fabric 1.21.4 + EnergyUtils",
     "access": "free",
-    "clientUrl": "",
+    "clientUrl": "https://github.com/adykatvibecoder/energyutils/releases/download/untagged-56fcb617be475b3b89bd/EnergyUtils-HWVER.jar",
     "modsUrl": "https://github.com/adykatvibecoder/energyutils/releases/download/untagged-56fcb617be475b3b89bd/EnergyUtils-HWVER.jar",
     "fabricApi": true
   },
